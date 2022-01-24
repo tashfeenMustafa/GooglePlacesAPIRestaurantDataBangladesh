@@ -1,2 +1,2 @@
 # GooglePlacesAPIRestaurantDataBangladesh
-Scraping all restaurant data listed as Restaurants on Google Maps using Python
+Scraping all restaurant data listed as "Restaurant" on Google Maps using Python
